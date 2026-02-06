@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Por Empleado"]],"1":[[" ","Por Empleado"]],"2":[[" ","Ventana donde se puede consultar cada uno para verificar que conceptos tiene cada empleado."]],"id":"4"})

@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Aprobación de Nómina de Pensionados"]],"1":[[" ","Aprobación de Nómina de Pensionados"]],"2":[[" ","Ventana para realizar el ingreso de los conceptos de los pensionados por personas."]],"id":"12"})

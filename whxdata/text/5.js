@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Bancos de Pagos"]],"1":[[" ","Bancos de Pagos"]],"2":[[" ","Ventana para la creación y definición de los bancos para el pago de empleados o pensionados. Se da clic en insertar se ingresa toda la información solicitada y se da grabar."]],"id":"5"})

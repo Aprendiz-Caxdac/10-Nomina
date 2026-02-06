@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Estados de un Pensionado"]],"1":[[" ","Estados de un Pensionado"]],"2":[[" ","Ventana para la definición del estado de un pensionado en la base de datos para generar la nomina."," ","See Also"," ","Bancos de Pagos","Cuentas del Banco de Occidente","DANE","Entidades Financieras para Pagar Electrónicamente"]],"id":"13"})

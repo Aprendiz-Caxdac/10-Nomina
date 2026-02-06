@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Informes de Cambios en la Nómina"]],"1":[[" ","Informes de Cambios en la Nómina"]],"2":[[" ","Ventana para sacar informe sobre los cambios de la nomina."," ","See Also"," ","Bancos – Pagos","Certificado de Ingresos y Retenciones","Conceptos","Pensionados Pagos"]],"id":"9"})

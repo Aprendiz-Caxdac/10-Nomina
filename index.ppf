@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Nomina" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Escritos\Manual_de_Usuario\Manual_de_Usuario.htm">
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Manual_de_Usuario.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Modificaciones_del_Documento.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Tabla_de_Control.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Módulos_que_Integran_la_Aplicación.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Inicio_de_Sesion.htm
+    </topic>
+    
+    <topic>
+      Escritos\Manual_de_Usuario\Botones.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Aprobacion_de_Nomina_de_Pensionados.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Bancos_-_Pagos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Borrado_de_Conceptos_Mesada_Adicional.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Calculo_de_Causacion_Mensual.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Certificado_de_Estudios.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Certificado_de_Ingresos_y_Retenciones.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Certificado_Laboral.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Cheques_de_Canasta.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Conceptos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Contabilizacion_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Contabilizar_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Cruce_de_Informacion_Min._Salud_y_Proteccion_Social.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Descuentos_Especiales_de_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Dias_Feriados.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Historicos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Horas_Extras.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Informacion_para_Retencion_en_la_Fuente.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Informes_de_Cambios_en_la_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Novedades_de_Pensionado.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Numero_de_Dias_Laborados_por_Periodo.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Nómina_de_Pensionados.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Pagos_por_Fuera_de_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Pensionados_Pagos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Por_Concepto.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Por_Empleado.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Por_Importacion_de_Archivo_Plano.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Procesos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Reporte_de_Historico_de_Pensionados.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Reportes.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Reversar_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Procesos\Supervivencias.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Aprobaciones_de_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Bancos_de_Pagos.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Cambiar_de_Usuario.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Conceptos_de_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Conceptos_para_Nomina_de_Empleados.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Cuentas_del_Banco_de_Occidente.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\DANE.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Entidades_Financieras_para_Pagar_Electronicamente.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Estados_de_un_Pensionado.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Forma_de_Envio_de_Correspondencia.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Formas_Presentacion_de_Supervivencia.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Tablas_Basicas.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Tipos_de_Nomina.htm
+    </topic>
+    
+    <topic>
+      Escritos\Tablas_Básicas\Tipos_de_Personas.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        es_ES
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/Users/smontoya/OneDrive - Caja de Auxilios y Prestaciones de ACDAC CAXDAC/Documentos/My RoboHelp Projects/Nomina/contents/assets/images/imgs_base/Logo_CXD.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>

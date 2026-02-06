@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Información para Retención en la Fuente "]],"1":[[" ","Información para Retención en la Fuente "]],"2":[[" ","Definición de contrastes anuales para cálculo de retenciones: Ventana para la definición de las constantes anuales para el calculo se las retenciones."," ","Cuadro de ingresos por empleado: No tenemos permisos."]],"id":"26"})
