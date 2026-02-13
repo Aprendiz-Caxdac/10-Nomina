@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"Manual de Usuario","type":"book","tilePath":"","key":"toc2"},{"name":"Procesos","type":"book","tilePath":"","key":"toc3"},{"name":"Tablas Básicas","type":"book","tilePath":"","key":"toc4"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

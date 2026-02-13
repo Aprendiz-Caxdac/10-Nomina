@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Reporte de Histórico de Pensionados"]],"1":[[" ","Reporte de Histórico de Pensionados"]],"2":[[" ","Ventana en la que se exporta los archivos planos para la nomina (el área de sistemas), Boletines de pago de pensionados de diferentes meses, reporte de conceptos de meses anteriores."]],"id":"24"})

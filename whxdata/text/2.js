@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Reversar Nómina"]],"1":[[" ","Reversar Nómina"]],"2":[[" ","Ventana en la que se puede reversar la nomina de los pensionados."]],"id":"2"})

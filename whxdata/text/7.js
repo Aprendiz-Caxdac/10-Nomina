@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Por Concepto"]],"1":[[" ","Por Concepto"]],"2":[[" ","Ventana para realizar el ingreso de los conceptos de los empleados uno a uno."]],"id":"7"})

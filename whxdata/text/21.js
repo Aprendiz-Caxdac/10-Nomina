@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Certificado de Ingresos y Retenciones"]],"1":[[" ","Certificado de Ingresos y Retenciones"]],"2":[[" ","Ventana para generar el certificado de ingresos y retenciones lo puede generar por pensionado o todos."," ","See Also"," ","Bancos – Pagos","Conceptos","Informes de Cambios en la Nómina","Pensionados Pagos"]],"id":"21"})

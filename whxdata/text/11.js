@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Días Feriados"]],"1":[[" ","Días Feriados"]],"2":[[" ","Ventana para definir los días feriados en Colombia para el calculo de las horas extras."," ","See Also"," ","Cálculo de Causación Mensual","Contabilización Nómina","Horas Extras","Número de Días Laborados por Periodo","Pagos por Fuera de Nómina","Por Importación de Archivo Plano"]],"id":"11"})
